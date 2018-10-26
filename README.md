@@ -43,7 +43,9 @@ For more information on signature blinding, refer to
 
 ## Installation
 With Go installed, run the following command:
-  ```$ go get github.com/monero-project/urs/...```
+  ```$ go get github.com/btcsuite/btcd ```
+
+Clone the repo and run `go build`
 
 ## Usage
   -B=false: Enable signature blinding (non-unique!); B|blind
